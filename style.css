@@ -1,0 +1,122 @@
+html {
+    background-color: #161719;
+    color: aliceblue;
+}
+
+#pfp {
+    border-radius: 50%;
+}
+#row4 {
+    flex-direction: row;
+}
+#test {
+    background-image: url("http://192.168.2.57/home/shiara/public/profile.png");
+}
+#whitespace {
+    height: 30vh;
+}
+#row1 {
+    height: 22vh;
+}
+#row2 {
+    height: 60vh;
+}
+.row {
+    display: flex;
+}
+.fivevhspacer {
+    width: 5vh;
+}
+.leftbox {
+
+    width: 40vi;
+    
+}
+.rightbox {
+
+    width: 40vi;
+    display: flex;
+    flex-direction: row;
+}
+.Flags {
+    height: 2vh;
+    width: 3vh;
+}
+.box {
+    width: 80vi;
+    height: 60vh;
+
+}
+.boxleft {
+    width: 40vi;
+    height: 60vh;
+}
+.boxright {
+    width: 40vi;
+    height: 60vh;
+}
+
+
+.titles {
+    height: 15vh;
+
+    display: flex;
+    flex-direction: row;
+}
+.titlesint {
+    width: 10vi;
+    display: flex;
+    justify-content: center;
+}
+.listsint {
+    width: 17vi;
+    display: flex;
+    justify-content: center;
+
+}
+.lis {
+    margin-bottom: 1vh;
+    list-style-position: outside;
+}
+.innerspace1 {
+    width: 8vi;
+}
+.innerspace2 {
+    width: 2vi;
+}
+
+h3 {
+    text-align: center;
+}
+.lists {
+
+    height: 65vh;
+    display: flex;
+    flex-direction: row;
+}
+.row1 {
+    height: 22vh;
+}
+.row2 {
+    height: 60vh;
+}
+.margin {
+    width: 10vi;
+}
+.row1left {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.row2left {
+    display: flex;
+    flex-direction: row;
+}
+.innerspace {
+    width: 15vh;
+}
+.row2left1 {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
